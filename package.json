@@ -1,0 +1,10 @@
+{
+  "name": "murmuration",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "murmurlab",
+  "license": "CC-BY-SA-4.0",
+  "description": "murmuration allows you to create services and connection them to each other"
+}
